@@ -27,9 +27,3 @@
   [headers.values]
     Cache-Control = "public, max-age=86400"
 
-# Redirects para dominio custom
-[[redirects]]
-  from = "https://sfwines.netlify.app/*"
-  to = "https://sfwines.com.ar/:splat"
-  status = 301
-  force = true
