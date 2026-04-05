@@ -1,0 +1,219 @@
+﻿id,nombre,bodega,varietal,descripcion,precio_unitario,precio_caja,botellas_caja,imagen_url,categoria,activo
+1,Angelica Zapata,Catena Zapata,Chardonnay,,21060,84240,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+2,Angelica Zapata,Catena Zapata,Merlot,,21060,84240,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/be01252_base-300f2828a23844200a17614179779412-1024-1024.webp,,TRUE
+3,Angelica Zapata Alta 2020,Catena Zapata,Malbec,,23702,90066,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+4,Birth Of Cabernet,Catena Zapata,Cabernet Sauvignon,,63700,363090,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+5,Dv Adrianna,Catena Zapata,Malbec,,24937,99746,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-adrianna-2b512d3821ff82c79117577099929664-1024-1024.webp,,TRUE
+6,Dv Blanco Historico,Catena Zapata,Blend de Blancas,,16380,98280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv_catena_vd_blanco_historico1-977fb943382e1296aa16179088893738-640-0-83cedc43a5c8c2dd4517577104843705-1024-1024.webp,,TRUE
+7,Dv Catena Cabernet Cabernet,Catena Zapata,Cabernet Sauvignon,,17768,106610,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-catena-cab-cab1-f67cd3d5430ded780016080431906261-640-0-dbbc157e341012fd8017577105530489-1024-1024.webp,,TRUE
+8,Dv Catena Cabernet Malbec,Catena Zapata,Cabernet-Malbec,,11635,66320,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-cabernet-malbec-ce004739e39778c0de17577103371042-1024-1024.webp,,TRUE
+9,Dv Catena Chardonnay,Catena Zapata,Chardonnay,,13845,83070,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-chardo-ec65d542c91efa017a17577100584647-1024-1024.webp,,TRUE
+10,Dv Catena L'Esploratore La Rioja,Catena Zapata,Malbec,,16835,101010,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-adrianna-2b512d3821ff82c79117577099929664-1024-1024.webp,,TRUE
+11,Dv Catena L'Esploratore Salta,Catena Zapata,Malbec,,16835,95960,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-adrianna-2b512d3821ff82c79117577099929664-1024-1024.webp,,TRUE
+12,Dv Catena Malbec Malbec,Catena Zapata,Malbec,,17768,101280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-adrianna-2b512d3821ff82c79117577099929664-1024-1024.webp,,TRUE
+13,Dv Catena Malbec Tinto Historico,Catena Zapata,Blend,,21691,130143,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-tinto-historico-fdf7bc45980e9d2d1617577097140844-1024-1024.webp,,TRUE
+14,Dv Catena Pinot Pinot 2022,Catena Zapata,Pinot Noir,,14300,81510,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-adrianna-2b512d3821ff82c79117577099929664-1024-1024.webp,,TRUE
+15,Dv Domingo Tupungato,Catena Zapata,Cabernet Sauvignon,,20722,82888,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+16,Dv Lulunta Garnacha,Catena Zapata,Garnacha,,23816,142896,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-catena-garnacha-apelaciones-lunlunta-d2b163cfdf87c3050117267549231207-640-0-0cba8485cc1241d82517577104021954-1024-1024.webp,,TRUE
+17,Dv Nicasia Vineyard Malbec,Catena Zapata,Malbec,,22697,136180,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trinita-96e26efb19e002d48b17597134179865-1024-1024.webp,,TRUE
+18,Dv Nicasia Vineyard Pasaje Altamira,Catena Zapata,Cabernet Sauvignon,,19825,118950,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-catena-vineyard-designated-malbec-altamira1-89bf5f956ab1f0e18b16182581178675-640-0-6407cfa2babf4e44b617577108217705-1024-1024.webp,,TRUE
+19,Dv Piramide Vineyard,Catena Zapata,Cabernet Sauvignon,,21060,84240,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/dv-catena-cabernet-sauvignon-v-d-piramide-161-2fb74f54420618213b16148094560768-640-0-7ce50f5d5d795f9c8d17577106592245-1024-1024.webp,,TRUE
+20,El Enemigo,Aleanna,Malbec,,17768,101280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+21,El Enemigo,Aleanna,Bonarda,,17095,97442,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-el-cepillo-da069cfff251af08c417577088130871-1024-1024.webp,,TRUE
+22,El Enemigo,Aleanna,Cabernet Franc,,17095,97442,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+23,El Enemigo,Aleanna,Chardonnay,,17095,102570,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-31-720cc8419e15bbb2e917692792974546-1024-1024.webp,,TRUE
+24,Gran Enemigo Agrelo,Aleanna,Cabernet Franc,,37050,211185,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-agrelo-a-d42e9e8c317748ebde17577085826834-1024-1024.webp,,TRUE
+25,Gran Enemigo Cepillo 2021,Aleanna,Cabernet Franc,,36660,208962,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-corte-b0ee1bdc297de5837317567855503552-1024-1024.webp,,TRUE
+26,Gran Enemigo Chacayes,Aleanna,Cabernet Franc,,36660,208962,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-chacayes-1004c2d4061e31c58e17577082672873-1024-1024.webp,,TRUE
+27,Gran Enemigo Corte,Aleanna,Cabernet Franc,,36660,208962,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-el-cepillo-da069cfff251af08c417577088130871-1024-1024.webp,,TRUE
+28,Gran Enemigo Gualtallary,Aleanna,Cabernet Franc,,40950,245700,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enem-gualtallary-fc9b07dda6ce2adeec17577089987956-1024-1024.webp,,TRUE
+29,Malbec Argentino,Catena Zapata,Malbec,,54600,207480,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/malbec-argentino-9f4d3c6a6a0a7b713417567854352627-1024-1024.webp,,TRUE
+30,Nicasia,Catena Zapata,Cabernet Franc,,6617,39702,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/nicasia-cf-b95eb7cfc565b2238117606621953756-1024-1024.webp,,TRUE
+31,Nicasia,Catena Zapata,Malbec,,6617,39702,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+32,Nicasia,Catena Zapata,Blend de Blancas,,6617,39702,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/group-6-1-50465cc7f4f50c754717597198368674-1024-1024.webp,,TRUE
+33,Nicasia,Catena Zapata,Grand Blend,,10959,65754,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/nicasia-grand-blend-de9eb743a5d7bb96a317606621476300-1024-1024.webp,,TRUE
+34,Nicolas Catena Zapata,Catena Zapata,Blend,,60450,362700,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/catena_zapata_nicolas_750-b3b641a47326d3be2d17614177987899-1024-1024.webp,,TRUE
+35,Coincidir,Coincidir,Pinot Noir,,16727,63561,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/coincidir-pinot-0b566022e64ca06b4817614177399704-1024-1024.webp,,TRUE
+36,Lugarcitos,Coincidir,Malbec,,25029,95110,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/lugarcitos-malbeec-6209b11a0e18f9c00e17590944701693-1024-1024.webp,,TRUE
+37,Lugarcitos,Coincidir,Cabernet Franc,,25029,95110,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/lugarcitos-cf-bca7400f192e16bc4417614131453658-1024-1024.webp,,TRUE
+38,Flor de Cardon 2022,Los Cardones,Cabernet Sauvignon,,14835,84560,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/flor-de-cardon-69b1ee3534fc874a0c17612557018150-1024-1024.webp,,TRUE
+39,Anko,Los Cardones,Malbec,,11538,65769,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/anko_malbec_3f2bcc50-59ce-419d-8d2b-2281313facc7_2048x2048_crop_center2x-jpg-99c54e7d5d190c057217614181348273-1024-1024.webp,,TRUE
+40,Artesano 2020,Manos Negras,Malbec,,11227,63992,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/artesano-malbec-fbb8a56f68609cce1b17612555973683-1024-1024.webp,,TRUE
+41,Artesano 2022,Manos Negras,Pinot Noir,,14434,82275,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/artesano-pinot-5b5b21c9e27eba58a117612555672051-1024-1024.webp,,TRUE
+42,Teho 2020,Mil Suelos,Semillon,,22186,126460,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/teho-semillon-ac0230e18a62f678fd17612556521184-1024-1024.webp,,TRUE
+43,Teho El Corte 2020,Mil Suelos,Blend,,32833,187150,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/teho-el-corte-877f20b21f514a883c17612553067440-1024-1024.webp,,TRUE
+44,Zaha 2020,Mil Suelos,Cabernet Sauvignon,,26463,150837,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/zaha-cs-6c06b0d870b17063a917612548755497-1024-1024.webp,,TRUE
+45,Zaha 2020,Mil Suelos,Malbec,,26463,150837,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/zaha-malbec-ea0b87fa142ff9b3ca17612547806378-1024-1024.webp,,TRUE
+46,Cuvee Les Calcaries 2023,Mundo Reves,Cabernet Franc,,37503,213767,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+47,Cuvee Qvevri 2023,Mundo Reves,Naranjo,,37503,213767,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/qvevri-b398aceed0012633a217567848401051-1024-1024.webp,,TRUE
+48,Gualtallary 2022,Riccitelli,Cabernet Franc,,37868,215845,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/riccitelli-gualtallary-318269fbf7be2e949917612546223393-1024-1024.webp,,TRUE
+49,Riccitelli & Father,Riccitelli,Malbec - Cabernet Franc,,86913,495404,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/vinas-estremas-riccitelli-eac4f87268d085d23f17591057316855-1024-1024.webp,,TRUE
+50,The Apple,Riccitelli,Malbec,,22478,128122,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/riccitelli-the-apple-malbec-e1cda3795cd4c1100c17591052452624-1024-1024.webp,,TRUE
+51,Tinto de la Casa 2023,Riccitelli,Blend,,31064,177062,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tinto-de-la-casa-6ef42894661b3bfb9b17612543299484-1024-1024.webp,,TRUE
+52,Viejos Viñedos de Pie Franco 2023,Riccitelli,Sangiovese,,52569,299643,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+53,Viñas Extremas San Pablo 2022,Riccitelli,Malbec,,81000,461700,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/vinas-estremas-riccitelli-eac4f87268d085d23f17591057316855-1024-1024.webp,,TRUE
+54,Casa de las Musas 2020,Solo Contigo,Blend,,31509,179601,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/casa_de_las_musas-blend_bf48074f-efa1-4d01-a9e2-8f4f0ee78709_2048x2048_crop_center2x-jpg-5307b241f0bc2319e117612542467848-1024-1024.webp,,TRUE
+55,Neelands los Chacayes 2021,Solo Contigo,Blend,,45360,258552,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/neelands-blend-2049cb20a2a52c382a17612541499412-1024-1024.webp,,TRUE
+56,Nicola Catena,Catena Zapata,Bonarda,,39083,156330,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/nicolas-11-e6728205713359de8316958388128215-480-0-85ebd91ffd2310becf17577119365728-1024-1024.webp,,TRUE
+57,Aruma,Caro,Malbec,,20048,120285,6,,,TRUE
+58,Petit Caro,Caro,Blend,,33413,200475,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+59,Caro,Caro,Blend,,135135,810810,6,,,TRUE
+60,Luca Beso De Dante,Luca,Blend,,44439,266632,6,,,TRUE
+61,Luca,Luca,Chardonnay,,26322,157930,6,,,TRUE
+62,Nico By Luca,Luca,Malbec,,89843,269528,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/catena_zapata_nicolas_750-b3b641a47326d3be2d17614177987899-1024-1024.webp,,TRUE
+63,Luca,Luca,Malbec,,30925,185551,6,,,TRUE
+64,Luca,Luca,Pinot Noir,,26322,157930,6,,,TRUE
+65,Luca,Luca,Syrah,,26322,157930,6,,,TRUE
+66,Araucana Azul,Ribera del Cuarzo,Blend,,96525,579150,6,,,TRUE
+67,Araucana,Ribera del Cuarzo,Malbec,,40095,240570,6,,,TRUE
+68,Ribera del Cuarzo Clasico,Ribera del Cuarzo,Malbec,,32299,193793,6,,,TRUE
+69,Ribera del Cuarzo Clasico,Ribera del Cuarzo,Merlot,,32299,193793,6,,,TRUE
+70,Araucana Rio de los Ciervos,Ribera del Cuarzo,Malbec,,27101,162608,6,,,TRUE
+71,Parcela Histoire D'A,Domaine Nico,Pinot Noir,,57061,342367,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+72,Parcela La Savante,Domaine Nico,Pinot Noir,,57061,342367,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+73,Parcela Grand Pere,Domaine Nico,Pinot Noir,,32856,197134,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+74,Parcela Grand Mere,Domaine Nico,Pinot Noir,,32856,197134,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+75,Aguijon de Abeja Obrera,Durigutti,Chardonnay-Semillon,,11925,67973,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/aguijon-abeja-reina-blanco-1a91887f7452374d9e17612530757233-1024-1024.webp,,TRUE
+76,Aguijon de Abeja Obrera,Durigutti,Bonarda,,11925,67973,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+77,Aguijon de Abeja Obrera,Durigutti,Cabernet Franc,,11925,67973,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+78,Aguijon de Abeja Obrera,Durigutti,Cabernet Sauvignon,,11925,67973,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+79,Aguijon de Abeja Obrera,Durigutti,Malbec,,11925,67973,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+80,Aguijon de Abeja Reina,Durigutti,Cabernet Franc,,18000,102600,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+81,Aguijon de Abeja Reina,Durigutti,Malbec,,18000,102600,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-18-487b8ccdf2bab6047e17692771977772-1024-1024.webp,,TRUE
+82,Aguijon de Abeja Reina Fusion de Blancas,Durigutti,Semillon - Chardonay - Torrontes,,18000,102600,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/group-6-1-50465cc7f4f50c754717597198368674-1024-1024.webp,,TRUE
+83,Cara Sucia,Durigutti,Criolla,,14400,82080,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/cara-sucia-criolla-3e77ad3a99a0d18aa917612529578208-1024-1024.webp,,TRUE
+84,Proyecto Las Compuertas,Durigutti,Cordisco,,21675,123548,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+85,Proyecto Las Compuertas,Durigutti,Criolla,,21675,123548,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/las-compuertas-criolla-30ddc0945f16f3a6b217612525915590-1024-1024.webp,,TRUE
+86,Proyecto Las Compuertas,Durigutti,Bonarda,,26550,151335,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/proyecto-las-compuertas-bonarda-b90a1fd0996c7966e417612524732523-1024-1024.webp,,TRUE
+87,Proyecto Las Compuertas,Durigutti,Cabernet Franc,,33675,191948,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/proyecto-las-compuertas-cf-8f85ab07a05ac656ac17612525057217-1024-1024.webp,,TRUE
+88,Proyecto Las Compuertas Blanco de Finca,Durigutti,Marsane - Semillon,,39150,223155,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trifecta1-5f7d0b13d35b256b5616154072457668-480-0-383ba039c844ad9d4f17577115426925-1024-1024.webp,,TRUE
+89,Proyecto Las Compuertas Malbec 1914,Durigutti,Malbec,,41100,234270,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+90,Proyecto Las Compuertas Malbec 5 suelos,Durigutti,Malbec,,26550,151335,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/malbec-5-suelos-64b11eb077011866f917612522598074-1024-1024.webp,,TRUE
+91,Conjuro,Bressia,Blend,,49280,280896,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+92,Lagrima Canela,Bressia,Blend de Blancas,,23520,134064,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/lagrima-canela-0c9fe0ae822e20ce0717612521825584-1024-1024.webp,,TRUE
+93,Piel Negra,Bressia,Pinot Noir,,30386,173201,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/piel-negra-4e9ba8509130d55b1117612520977561-1024-1024.webp,,TRUE
+94,Profundo,Bressia,Blend,,23520,134064,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+95,Monteagrelo,Bressia,Cabernet Sauvignon,,15680,94080,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/monteagrelo-cs-1578025e3116dfc8e717612520184026-1024-1024.webp,,TRUE
+96,Monteagrelo,Bressia,Malbec,,15680,94080,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+97,Hermandad,Falasco Wines,Blend,,23888,95550,4,,,TRUE
+98,Luigi Bosca De Sangre,Luigi Bosca,Blend,,16918,101509,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/luigi-sangre-blend-ad84edc1974fcd17da17612517010342-1024-1024.webp,,TRUE
+99,Reserva Malbec Salta,Piatelli,Malbec,,13377,80262,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+100,Pulenta Estate Tinto,Pulenta Estate,Cabernet Sauvignon,,31330,187980,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/pulenta-cs-d1d73e8f18d671910b17577077073505-1024-1024.webp,,TRUE
+101,Pulenta Estate,Pulenta Estate,Pinot Noir,,31850,191100,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/pulenta-cs-d1d73e8f18d671910b17577077073505-1024-1024.webp,,TRUE
+102,Pulenta,Pulenta Estate,Rosé,,20703,124215,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-16-66fc69969d6c44886117692771027225-1024-1024.webp,,TRUE
+103,Gran Pulenta Corte,Pulenta State,Blend,,104585,627510,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/gran-enemigo-corte-b0ee1bdc297de5837317567855503552-1024-1024.webp,,TRUE
+104,Briosso,Susana Balbo,Blend,,42766,256597,6,,,TRUE
+105,Susana Balbo,Susana Balbo,Rosé,,38539,231231,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-16-66fc69969d6c44886117692771027225-1024-1024.webp,,TRUE
+106,Cocodrilo,Viña Cobos,Blend,,46995,281970,6,,,TRUE
+107,Felino,Viña Cobos,Chardonnay,,27073,162435,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+108,Felino,Viña Cobos,Malbec,,25305,151827,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+109,Coquena Corte,Yacochuya,Blend,,10033,60200,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/coquena-corte-3c481983c22fa7c18d17577014831732-1024-1024.webp,,TRUE
+110,San Pedro Tinto,Yacochuya,Blend,,24525,147147,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/artesano-malbec-2d6ec93dc7da8c07f217567853700235-1024-1024.webp,,TRUE
+111,Coquena,Yacochuya,Malbec,,8122,48734,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/coquena-malbec-v-1920x1080-4d18919fa3599b3dd517606616624056-1024-1024.webp,,TRUE
+112,Yacochuya,Yacochuya,Malbec,,65611,393666,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+113,San Pedro,Yacochuya,Torrontes,,12740,76440,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+114,Desbandado,Kaiken,Malbec,,12880,77280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+115,Desbandado,Kaiken,Cabernet Franc,,12880,77280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+116,Disobedience by Francis Mallmann,Kaiken,Blend,,21000,126000,6,,,TRUE
+117,Mai,Kaiken,Malbec,,75740,454440,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/domaine_nico_histoire_1_d6596c20-f344-44b5-96ef-bbb9dbdc6755_2048x2048_crop_center2x-0dec5cfbb1754c821f17597135771546-1024-1024.webp,,TRUE
+118,Aventura Los Chacayes Sur,Kaiken,Malbec,,24710,148260,6,,,TRUE
+119,Aventura Los Chacayes Norte,Kaiken,Malbec,,24710,148260,6,,,TRUE
+120,Aventura Valle de Canota,Kaiken,Malbec,,24710,148260,6,,,TRUE
+121,J Alberto,Noemia,Blend,,70125,399713,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/j-alberto-fb40fbe22287111e8d17577075256600-1024-1024.webp,,TRUE
+122,A Lisa,Noemia,Malbec,,35063,199856,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+123,45 Rugientes,Otronia,Corte de Blancas,,33712,192158,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/otronia-chardonnay-6b84e3f262519ce54517606619096533-1024-1024.webp,,TRUE
+124,45 Rugientes,Otronia,Merlot,,40768,232378,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-45-f5825b220f1d5523ac17692796128954-1024-1024.webp,,TRUE
+125,45 Rugientes,Otronia,Org. Rosé,,33712,192158,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/animal-rosado-af24e5a536cca0045f17591067942501-1024-1024.webp,,TRUE
+126,45 Rugientes,Otronia,Pinot Noir,,33712,192158,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trinita-96e26efb19e002d48b17597134179865-1024-1024.webp,,TRUE
+127,Otronia,Otronia,Chardonnay,,78322,223217,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/otronia-chardonnay-6b84e3f262519ce54517606619096533-1024-1024.webp,,TRUE
+128,Otronia,Otronia,Malbec,,78322,223217,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/otronia-malbec-c745ad8de063473b0a17606618313410-1024-1024.webp,,TRUE
+129,Otronia,Otronia,Pinot Noir,,78322,223217,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/pinot-noir-otronia-c1aff7138d268fa9b617577047759809-1024-1024.webp,,TRUE
+130,Arrogante,Colosso,Malbec,,11238,64057,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/arrogante-malbec-nueva-f60b320fce85cba0be17249650135116-1024-1024-dac4d4983c7da697e517581579130295-480-0.webp,,TRUE
+131,Arrogante,Colosso,Syrah,,12409,70729,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-21-ad5f4a6032718f9e3f17692775039859-1024-1024.webp,,TRUE
+132,Arrogante,Colosso,Viognier Naranjo,,10104,57593,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/arrogante-viognier-9f9a3cfca6ece2d9ec17581580007213-1024-1024.webp,,TRUE
+133,Colosso,Colosso,Malbec,,21080,120154,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+134,Colosso,Colosso,Rosado,,14255,81255,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-16-66fc69969d6c44886117692771027225-1024-1024.webp,,TRUE
+135,La Bestia,Colosso,Cabernet Sauvignon,,57833,329650,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/catena_zapata_nicolas_750-b3b641a47326d3be2d17614177987899-1024-1024.webp,,TRUE
+136,Maldito,Colosso,Malbec,,31188,118516,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+137,Arcangel Azrael,Sin reglas,Cabernet Sauvignon,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+138,Arcangel Israfil,Sin reglas,Malbec,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+139,Arcangel Maalik,Sin reglas,Cabernet Sauvignon,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+140,Arcangel Mikhail,Sin reglas,Merlot,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+141,Arcangel Remiel,Sin reglas,Malbec,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+142,Arcangel Samael,Sin reglas,Malbec,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trinita-96e26efb19e002d48b17597134179865-1024-1024.webp,,TRUE
+143,Arcangel Sariel,Sin reglas,Blend,,86371,492315,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+144,Cofre Arcangeles,Sin Reglas,Cofre,,1020599,1020599,7,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/el-cofre-de-los-arcangeles-a2e809cdf3d4aea8d717502701429070-640-0-a6f1ed6033bc70e72717597199696055-1024-1024.webp,,TRUE
+145,Mil Demonios,Sin Reglas,Blend de Blancas,,14273,54237,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/teho-semillon-ac0230e18a62f678fd17612556521184-1024-1024.webp,,TRUE
+146,Mil Demonios,Sin Reglas,Malbec,,14273,81355,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+147,Mil Demonios,Sin Reglas,Pinot Noir,,14273,81355,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+148,Mil Demonios (Chile),Sin reglas,Sauvignon Blanc,,14273,81355,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+149,Mil Demonios Calchaqui,Sin reglas,Tannat,,21202,80569,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+150,Mil Demonios Chile,Sin reglas,Cabernet Sauvignon,,17549,100031,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+151,Mil Demonios Cofermentado,Sin reglas,Rosé,,14273,81355,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-16-66fc69969d6c44886117692771027225-1024-1024.webp,,TRUE
+152,Mil Demonios Gitano,Sin reglas,Blend,,21202,80569,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trinita-96e26efb19e002d48b17597134179865-1024-1024.webp,,TRUE
+153,Mil Demonios Lucifer,Sin Reglas,Blend,,33770,96245,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+154,Mil Demonios Pirata,Sin reglas,Cabernet Sauvignon,,21202,80569,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/md-pirata-1101x2048-6fe0c36fa57cb4301817597192698091-1024-1024.webp,,TRUE
+155,Mil Demonios Samurai,Sin Reglas,Malbec,,23719,90132,4,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mil-demonios-samurai-malbec-750-ml-19bf8fd1aa12cb22ee17597190415960-1024-1024.webp,,TRUE
+156,Mil Demonios Vikingo,Sin reglas,Petit Verdot,,24706,70411,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mil-demonios-vikingo-750-ml-543d7d466f0d4b6de117597189118304-1024-1024.webp,,TRUE
+157,Barrabas,Sottano,Cabernet Franc,,29702,169302,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/barrabas-cf-d9c54c47458895e14417569502631843-1024-1024.webp,,TRUE
+158,Barrabas,Sottano,Cabernet sauvignon,,29702,169302,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/barrabas-cs-77c9f342f806121df317569509661722-1024-1024.webp,,TRUE
+159,Barrabas Cofermentado,Sottano,Malbec - Cabernet Franc,,29702,169302,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+160,Fioravante Reserva,Sottano,Blend,,9007,51337,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/fioravante-blend-86cad22d9e60cd3a1017569509096329-1024-1024.webp,,TRUE
+161,Fioravante Reserva,Sottano,Sauvignon Blanc,,7862,44812,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/septima-obra-ch-1-510x510-4c8cfb0fffd0c2c75617597165768158-1024-1024.webp,,TRUE
+162,Fioravante Reserva,Sottano,Cabernet Sauvignon,,9007,51337,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/fioravante-cs-1876f47ae051886cd617569519960928-1024-1024.webp,,TRUE
+163,Fioravante Reserva,Sottano,Malbec,,9007,51337,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/fioravante-malbec-b2989943015f4f1cdf17569506212436-1024-1024.webp,,TRUE
+164,Judas,Sottano,Blend,,64763,184574,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-11-1c40e8dda47fefda9517692766275639-1024-1024.webp,,TRUE
+165,Judas,Sottano,Malbec,,56751,161739,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+166,Estuche Los Biblicos,Sottano,Malbec - Cabernet Franc - Chardonnay,,117127,117127,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+167,Cofre La Biblia de Judas,Sottano,Malbec,,402299,402299,3,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+168,Maria Magdalena,Sottano,Chardonnay,,16695,95160,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/maria-magdalena-99dc885d5af261bbcc17569512575555-1024-1024.webp,,TRUE
+169,Pilatos,Sottano,Malbec Cofermentado,,20575,117276,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/pilatos-10cf375102d37bd97517569503492673-1024-1024.webp,,TRUE
+170,Sottano Rva De Familia,Sottano,Cabernet sauvignon,,15505,88381,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/sottano-cab-s-e48e31743c35a680f517569529188920-1024-1024.webp,,TRUE
+171,Sottano Rva De Familia,Sottano,Malbec,,15505,88381,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+172,Sottano Rva De Familia,Sottano,Pinot Noir,,14829,84526,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+173,Animal,Animal Malbec,Malbec,,11154,66924,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+174,Animal Colors,Animal Organic,Blend de Blancas,,12155,69284,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trifecta1-5f7d0b13d35b256b5616154072457668-480-0-383ba039c844ad9d4f17577115426925-1024-1024.webp,,TRUE
+175,Animal Colors,Animal Organic,Blend de Tintas,,12727,72544,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-20-8347316c1b26cb0b0717692774443824-1024-1024.webp,,TRUE
+176,Animal Organic,Animal Organic,Cabernet Sauvignon,,9009,51351,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/animal-cs-89c0c5ef036283989617591075777574-1024-1024.webp,,TRUE
+177,Animal Organic,Animal Organic,Chardonnay,,10368,59095,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/animal-cha-11-68c8a4db7fcb7ca11d16154071328522-480-0-488c53903a4a463c6d17577116674845-1024-1024.webp,,TRUE
+178,Animal Organic,Animal Organic,Criolla,,11440,65208,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/animal-criolla-64d11467f6054afc4d17591068954169-1024-1024.webp,,TRUE
+179,Animal Organic,Animal Organic,Malbec,,11154,63578,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+180,Animal Organic,Animal Organic,Rosé,,10582,60317,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/animal-rosado-af24e5a536cca0045f17591067942501-1024-1024.webp,,TRUE
+181,Be My Hippie Love,Be My Hippie Love,Criolla Blanco,,9152,52166,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/septima-obra-ch-1-510x510-4c8cfb0fffd0c2c75617597165768158-1024-1024.webp,,TRUE
+182,Be My Hippie Love,Be My Hippie Love,Criolla Tinta,,9295,52982,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-36-0dc43f652d402f4f7617692789900056-1024-1024.webp,,TRUE
+183,Alma Negra Tinto,Domaine Almanegra,Blend,,24096,137344,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/alma-negra-ok1-53e24bd90d13307cf716149602366378-480-0-db7a0404e75735c1c217577114368307-1024-1024.webp,,TRUE
+184,Alma Negra Blanco,Domaine Almanegra,Blend,,22880,137280,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/alma-ne1-7df4127cd0ff24ecbf16154077592885-480-0-eaaaa4c8728dd650b317577114654844-1024-1024.webp,,TRUE
+185,Tikal Natural,Ernesto Catena,Blend,,17238,98257,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tikal-f768eff86c0fceafa117528408903206-480-0-cd0bf04445c0164d8617577117228275-1024-1024.webp,,TRUE
+186,Tikal Corazon,Ernesto Catena,Blend,,35750,203775,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tikal-corazon-blend-e30774d755852b1f4a17591061448072-1024-1024.webp,,TRUE
+187,Tikal Jubilo,Ernesto Catena,Blend,,27885,158945,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tikal-jubilo-c6a192d4eba32e98a417591072083334-1024-1024.webp,,TRUE
+188,Tikal Patriota,Ernesto Catena,Blend,,22880,130416,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tikal-patriota-cccd0dcddb94b7477f17591065822420-1024-1024.webp,,TRUE
+189,Tikal Amorio,Ernesto Catena,Malbec,,25025,150150,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tikal-amorio-9112d2e499ba31a22f17591069277859-1024-1024.webp,,TRUE
+190,Padrillos Trifecta,Finca de los Padrillos,Blend de Blancas,,6149,35049,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/trifecta1-5f7d0b13d35b256b5616154072457668-480-0-383ba039c844ad9d4f17577115426925-1024-1024.webp,,TRUE
+191,Padrillos,Finca de los Padrillos,Malbec,,7150,40755,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mundo-reves-les-calcaires_38195f9c-b4bf-4f93-9e74-592bb80893ef_2048x2048_crop_center2x-c3cad6ce626186741317590991589423-1024-1024.webp,,TRUE
+192,Padrillos,Finca de los Padrillos,Pinot Noir,,7293,41570,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/padrillos-pinot-21-84629d94562e6bcc7516155702564786-480-0-2d55d78b8435011d2e17577115739323-1024-1024.webp,,TRUE
+193,Padrillos,Finca de los Padrillos,Rosé,,6149,35049,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-16-66fc69969d6c44886117692771027225-1024-1024.webp,,TRUE
+194,Jardin Enchanté,Jardin Enchanté,Rosé,,20020,114114,6,,,TRUE
+195,Mara,Mara de Uco,Bonarda,,13584,77430,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-bonarda-05bba45a394b19372c17606620260605-1024-1024.webp,,TRUE
+196,Mara,Mara de Uco,Cabernet Franc,,16445,93737,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-cabernet-franc1-0c759cb5989ed4edfc16106491040586-480-0-997881c4e927bc68e817577118470378-1024-1024.webp,,TRUE
+197,Mara,Mara de Uco,Merlot,,13657,77842,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-merlot-6b596127f7c8dac8a017566967896065-1024-1024.webp,,TRUE
+198,Mara,Mara de Uco,Petit Verdot,,13728,78250,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-petit-verdot-e06086dbbc0560086a17597180001864-1024-1024.webp,,TRUE
+199,Mara,Mara de Uco,Pinot Noir,,15730,89661,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-pinot-noir-b7fdeacdd63b32a39217597179193349-1024-1024.webp,,TRUE
+200,Mara,Mara de Uco,Semillon,,13584,77430,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/mara-semillon-accbc3d8826e42378917566964682572-1024-1024.webp,,TRUE
+201,"Toscana, Italia",On the Road,E80,,34320,195624,6,,,TRUE
+202,On the Road Patagonia,On the Road,Malbec,,22165,126341,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/on-the-road-malbec-9400060a9e95107e2c17591080516254-1024-1024.webp,,TRUE
+203,On the Road Patagonia,On the Road,Merlot,,20735,118190,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/on-the-road-merlot-dddff73447378a449717591078929665-1024-1024.webp,,TRUE
+204,On the Road Patagonia,On the Road,Pinot Noir,,21450,122265,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/on-the-road-pinot-b4483c300345f08dff17591079255938-1024-1024.webp,,TRUE
+205,"Toscana, Italia",On the Road,SR69,,34320,195624,6,,,TRUE
+206,Tatú,Tatú,Cabernet Sauvignon,,9796,55834,6,,,TRUE
+207,Tatú,Tatú,Chardonnay,,9653,55019,6,,,TRUE
+208,Tatú,Tatú,Criolla,,10725,61133,6,,,TRUE
+209,Tatú,Tatú,Syrah,,9724,55427,6,,,TRUE
+210,Saint Felicien,Catena Zapata,"Cabernet Sauvignon, Cabernet Franc, Malbec",,9110,51929,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/diseno-sin-titulo-2024-04-18t121514-814-56c2c5ff45912ea65217134533453170-1024-1024-1-9a79fcb7db712f2bcf17569504519587-1024-1024.webp,,TRUE
+211,Tinto de San Pablo,Cru de MontaÅa,Cabernet Franc - Malbec,,23563,134306,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/tinto-de-la-casa-a6140f013c87dfc2f017567838850606-1024-1024.webp,,TRUE
+212,Arcilla:1,Cru de MontaÅa,Cabernet Franc,,32625,185963,6,,,TRUE
+213,Gravas de San Pablo,Cru de MontaÅa,Cabernet Franc,,32625,185963,6,,,TRUE
+214,Schistos Positivos,Cru de MontaÅa,Cabernet Franc,,32625,185963,6,,,TRUE
+215,Cru de Gualtallary,Cru de MontaÅa,Malbec - Cabernet Franc,,43428,247537,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/cru-gualtallary-malbec-cf-700baf6b0b21dc710317577058231242-1024-1024.webp,,TRUE
+216,Cru de San Pablo,Cru de MontaÅa,Cabernet Franc - Malbec,,68875,392588,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/cru-de-san-pablo-1-2c148a97ad888fdb4617597175762397-1024-1024.webp,,TRUE
+217,Cru de Montaña,Cru de MontaÅa,Chardonnay,,68875,392588,6,https://dcdn-us.mitiendanube.com/stores/002/114/241/products/cru-de-gualtallary-b0b1d29ffbbd4c90c717597176621986-1024-1024.webp,,TRUE
+218,Dias Perfectos,Cru de MontaÅa,Malbec,,23563,134306,6,,,TRUE

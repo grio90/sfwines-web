@@ -5,9 +5,9 @@
  * Ver SETUP.md para instrucciones detalladas.
  */
 const CONFIG = {
-  // URL del Google Sheet publicado como CSV.
-  // Instrucciones en SETUP.md → Paso 1.
-  SHEET_URL: 'https://docs.google.com/spreadsheets/d/1onfmg9TaC7T0miHUwdgd__892lrVLrLdu99sPTI8gtw/export?format=csv&gid=1794766170',
+  // Ruta al CSV de productos (relativa al sitio).
+  // Para actualizar: editar productos.csv y hacer push a GitHub.
+  SHEET_URL: '/productos.csv',
 
   // Número de WhatsApp para consultas (sin +, con código de país)
   WHATSAPP: '5491170847696',
