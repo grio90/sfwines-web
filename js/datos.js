@@ -39,6 +39,8 @@ function parseCSVLine(line) {
  * Parsea el texto CSV completo y retorna array de objetos.
  */
 function parseCSV(text) {
+  // Remover BOM si existe
+  text = text.replace(/^\uFEFF/, '');
   const lines = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n').split('\n');
   if (lines.length < 2) return [];
 
