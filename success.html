@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pago exitoso — SF Wines</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .result-page { min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px; }
+    .result-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 56px 48px; max-width: 480px; width: 100%; text-align: center; }
+    .result-icon { font-size: 64px; margin-bottom: 24px; }
+    .result-card h1 { font-family: var(--font-serif); font-size: 2rem; margin-bottom: 12px; color: var(--success); }
+    .result-card p { color: var(--text-muted); font-size: 15px; line-height: 1.7; margin-bottom: 32px; }
+    .result-card .btn-primary { display: inline-flex; margin: 0 auto; }
+  </style>
+</head>
+<body>
+  <div class="result-page">
+    <div class="result-card">
+      <div class="result-icon">🎉</div>
+      <h1>¡Pago recibido!</h1>
+      <p>Tu pedido fue procesado correctamente. Te enviaremos la confirmación por email y nos pondremos en contacto para coordinar la entrega.</p>
+      <a href="/" class="btn-primary">Seguir comprando</a>
+    </div>
+  </div>
+  <script>
+    // Limpiar carrito al llegar a esta página
+    try { localStorage.removeItem('sfwines_carrito'); } catch(e) {}
+  </script>
+</body>
+</html>
